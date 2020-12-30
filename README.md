@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**muhammadmuzzammil1998/muhammadmuzzammil1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammad Muzzammil a.k.a. `(M[o|u]hammad Mu[z|zz]ammil)|( Khan)`
 
-Here are some ideas to get you started:
+I :heart: coding stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Completed my Bachelors in 2020 with distinction (CGPA 9.38)
+
+👨‍🎓 Currently pursing Masters in Computer Application
+
+🎓 Setting a foot in academics ([Google Scholar](https://scholar.google.co.in/citations?user=_i1wkcYkWNUC&hl=en), [ResearchGate](https://www.researchgate.net/profile/Mohammad_Khan338))
+
+
+
+🌐 Website: https://muzzammil.xyz
