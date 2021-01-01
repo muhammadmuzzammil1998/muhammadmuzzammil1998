@@ -12,4 +12,4 @@ I :heart: coding stuff
 
 
 
-🌐 Website: https://muzzammil.xyz
+🌐 Website: [muzzammil.xyz](https://muzzammil.xyz/?github)
