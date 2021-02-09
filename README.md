@@ -4,7 +4,11 @@ I'm Muhammad Muzzammil a.k.a. `(M[o|u]hammad Mu[z|zz]ammil)|( Khan)`
 
 I :heart: coding stuff
 
-👨‍🎓 Completed my Bachelors in 2020 with distinction (CGPA 9.38)
+🎂 14 Sept 1998
+
+👨‍🎓 [Victorian](http://nationalvictor.com/); Batch of '02
+
+👨‍🎓 Completed my Bachelors with distinction (CGPA 9.38); Class of '20
 
 👨‍🎓 Currently pursing Masters in Computer Application
 
