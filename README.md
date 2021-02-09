@@ -4,7 +4,7 @@ I'm Muhammad Muzzammil a.k.a. `(M[o|u]hammad Mu[z|zz]ammil)|( Khan)`
 
 I :heart: coding stuff
 
-🎂 14 Sept 1998
+🎂 14 Sept. 1998
 
 👨‍🎓 [Victorian](http://nationalvictor.com/); Batch of '02
 
