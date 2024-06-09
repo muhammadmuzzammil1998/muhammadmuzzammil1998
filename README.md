@@ -14,5 +14,7 @@ I :heart: coding stuff
 
 🎓 Explored academics for a few years ([Google Scholar](https://scholar.google.co.in/citations?user=_i1wkcYkWNUC&hl=en), [ResearchGate](https://www.researchgate.net/profile/Mohammad_Khan338))
 
+👨‍💻 Software Engineer @ [Impetus](https://impetus.com)
+
 🌐 Website: [muzzammil.xyz](https://muzzammil.xyz/?github)
 
